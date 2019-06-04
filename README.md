@@ -1,3 +1,7 @@
+#Cryptocurrency-ticker-app
+
+Based on [React tutorial](https://sabe.io/tutorials/getting-started-with-react) by Sabe.io
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
